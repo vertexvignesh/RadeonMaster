@@ -1,7 +1,7 @@
 # RadeonMaster
 
 > [!NOTE]
-> This module is only developed for Linux only!
+> This module is only developed for Linux system!
 
 RadeonMaster is a Python module for retrieving utilization and other information about Radeon GPUs. It is designed to work on Linux systems and relies on lm-sensors and radeontop for data collection.
 
